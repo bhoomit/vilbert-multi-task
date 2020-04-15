@@ -14,4 +14,3 @@ Cython
 #python-prctl
 msgpack
 msgpack-numpy
-pycocotools==2.0.0
